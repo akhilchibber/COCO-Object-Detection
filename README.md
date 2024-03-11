@@ -1,5 +1,4 @@
 # Machine learning based Object Detection on COCO Dataset
-# Deep Learning based Flower Recognition
 <p align="center">
   <img src="https://github.com/akhilchibber/COCO-Object-Detection/blob/main/Object-Detection.png?raw=true" alt="earthml Logo">
 </p>
