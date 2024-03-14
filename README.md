@@ -1,4 +1,4 @@
-# Machine learning based Object Detection on COCO Dataset
+# Machine Learning based Object Detection on COCO Dataset
 <p align="center">
   <img src="https://github.com/akhilchibber/COCO-Object-Detection/blob/main/Object-Detection.png?raw=true" alt="earthml Logo">
 </p>
